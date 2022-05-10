@@ -2,7 +2,7 @@ import React from 'react';
 import './css/style.css';
 import sound from './sounds/noteasomes.mp3';
 import sound2 from './sounds/amarillohdp.mp3';
-import sound3 from '../docs/static/media/cagon.68f02833d0fd84cfa41e.mp3';
+import sound3 from './sounds/cagon.mp3';
 import sound4 from './sounds/mariconputo.mp3';
 import sound5 from './sounds/retrasado.mp3';
 import sound6 from './sounds/quehacen.mp3';
